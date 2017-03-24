@@ -3,7 +3,7 @@ package com.coolweather.android.db;
 import org.litepal.crud.DataSupport;
 
 /**
- * Created by qinjingfan on 2017/3/24.
+ * Created by fan on 2017/3/24.
  */
 
 public class City extends DataSupport {
